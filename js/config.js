@@ -6,7 +6,7 @@ var config = {
 
   // Mode 'GITHUB' for Github Pages, 'SERVER' for Self Hosted
   // Defaults to Server mode if not specified
-  mode: 'SERVER',
+  mode: 'GITHUB',
   debug: true,
 
   // If Github mode is set, your Github username, repo name,
