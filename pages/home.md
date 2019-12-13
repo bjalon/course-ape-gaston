@@ -12,7 +12,7 @@ Dans un cadre bucolique et calme en apparence, l'ensemble des acteurs allentours
 
 Sur un parcours de 5km vous allez devoir faire preuve de courage, d'endurance et ne jamais lâcher !
 
-Si vous voulez être tenu au courant des mises à jour de cet événement, n'hésitez pas [à nous laisser votre adresse mail ici](https://docs.google.com/forms/d/e/1FAIpQLScylqdb_EUzqu84fhhUfIOSD2P11zOECzceKW6zeom1Rs-7uw/viewform?usp=pp_url).
+Si vous voulez être tenu au courant des mises à jour de cet événement, n'hésitez pas [à nous laisser votre adresse mail ici](/redirect.html?destination=contact).
 
 <div style="text-align: right"> Le Bureau de l'APE de Gaston </div>
 
