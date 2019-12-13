@@ -1,0 +1,32 @@
+<!-- Page Template -->
+<% if (data.picture) { %>
+<section class="hero parallax" style="background-image: url(<%= data.picture %>)">
+<% } else { %>
+<section class="hero parallax">
+<% } %>
+  <div class="hero-body"/>
+</section>
+
+
+<section class="section">
+  <div class="container">
+    <section class="articles">
+      <div class="column is-8 is-offset-2">
+
+        <article class="page fade-in">
+
+
+          <h1 class="title">
+            <%= data.subtitle %>
+          </h1>
+
+          <div class="content">
+            <%= data.body %>
+          </div>
+        </article>
+
+      </div>
+    </section>
+  </div>
+</section>
+

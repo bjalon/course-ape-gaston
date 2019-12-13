@@ -1,0 +1,33 @@
+<!-- Post List Template -->
+<section class="hero parallax" style="background-image: url(../img/posts.jpg)">
+  <div class="hero-body"/>
+</section>
+
+
+<section class="section">
+  <div class="container">
+    <section class="articles">
+      <div class="column is-8 is-offset-2">
+
+        <div class="content posts-list fade-in">
+          <% data.posts.forEach(function(post) { %>
+          <% if(!post.draft) { %>
+          <article class="post">
+            <h1 class="post-title">
+              <a href="<%= post.permalink %>"><%= post.title %></a>
+            </h1>
+            <time class="post-date"><%= post.date %></time>
+            <div class="post-content">
+              <% if(post.excerpt) { %>
+              <p><%= post.excerpt %></p>
+              <% } %>
+            </div>
+          </article>
+          <% } %>
+          <% }) %>
+        </div>
+
+      </div>
+    </section>
+  </div>
+</section>
