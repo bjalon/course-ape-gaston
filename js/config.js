@@ -12,7 +12,7 @@ var config = {
   // and branch to get files from.
   github: {
     username: 'bjalon',
-    repo: 'ape-gaston',
+    repo: 'course-ape-gaston',
     branch: 'gh-pages',
     host: 'https://api.github.com',
     // Use prefix option if your site is located in a subdirectory.
@@ -39,10 +39,10 @@ var config = {
     name: 'posts',
       layout: { list: 'post-list', single: 'post' },
     },
-    {
-      name: 'pages',
-      layout: { list: 'page-list', single: 'page' },
-    },
+    // {
+    //   name: 'pages',
+    //   layout: { list: 'page-list', single: 'page' },
+    // },
   ],
 };
 
