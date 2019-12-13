@@ -8,9 +8,9 @@ Bienvenu sur le site de la Course d'Obtacles de Gaston.
 
 Cette course a pour but de montrer que le dépassement de soi est possible.
 
-Dans un cadre bucolique et calme en apparence, l'ensemble des acteurs allentours vous sont entrain de concocter des obstacles inédits pour une course mémorable.
+Dans un cadre bucolique et calme en apparence, l'ensemble des acteurs allentours sont entrain de concocter des obstacles inédits pour une course mémorable.
 
-Sur un parcours de 5km vous devrez faire preuve de courage, d'endurance et de dépassement de soi.
+Sur un parcours de 5km vous allez devoir faire preuve de courage, d'endurance et ne jamais lâcher !
 
 Si vous voulez être tenu au courant des mises à jour de cet événement, n'hésitez pas [à nous laisser votre adresse mail ici](https://docs.google.com/forms/d/e/1FAIpQLScylqdb_EUzqu84fhhUfIOSD2P11zOECzceKW6zeom1Rs-7uw/viewform?usp=pp_url).
 
