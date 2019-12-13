@@ -1,10 +1,10 @@
 ---
 title: Course de Gaston
-subtitle: Bienvenu à la Course de Gaston
+subtitle: Bienvenue à la Course de Gaston
 picture: ../img/home-hero.jpg
 ---
 
-Bienvenu sur le site de la Course d'Obtacles de Gaston.
+Bienvenue sur le site de la Course d'Obtacles de Gaston.
 
 Cette course a pour but de montrer que le dépassement de soi est possible.
 
