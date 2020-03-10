@@ -1,14 +1,14 @@
 @media screen and (max-width: 800px) {
     .hero.parallax {
         /* Set a specific height */
-        height: 200px;
+        height: 150px;
     }
 }
 
 @media screen and (min-width: 800px) {
     .hero.parallax {
         /* Set a specific height */
-        height: 500px;
+        height: 400px;
     }
 }
 
