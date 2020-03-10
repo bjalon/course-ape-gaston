@@ -16,9 +16,8 @@ Pour les enfants, s'ils ne sont pas sages, ils pourront faire cette grande cours
 
 * L'inscription est de 10€ à partir du site et 12€ sur place. Les bénéfices de cette course seront reversés à la ligue contre le cancer du sein.
 * Un certificat médical est obligatoire à partir de 15 ans. 
-* Le départ aura lieu 
-** à 14h pour la vague de départ loisir ll
-** à 16h pour la course en équipe (à partir de 3 personnes) ou solo
+* Le départ aura lieu à 14h pour la vague de départ loisir
+* Le départ aura lieu à 16h pour la course en équipe (à partir de 3 personnes) ou solo
 
 Si vous voulez être tenu au courant des mises à jour de cet événement, ou si vous voulez vous inscrire n'hésitez pas [à nous laisser votre adresse mail ici](/redirect.html?destination=contact).
 
